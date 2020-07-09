@@ -21,7 +21,8 @@
 ![VirtulaPenGif](https://github.com/abd-shoumik/Virtual-Pen/blob/master/Virtualpen.gif)
 
 #### Credit:
-https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
+I have used the ball tracking algo of Adrian from this
+[blog](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
 
 ## Contacts:
 * **Created by:[Abdullah Shoumik](https://github.com/abd-shoumik)**
