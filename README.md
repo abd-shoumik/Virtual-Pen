@@ -20,6 +20,9 @@
 ## When you run the the file, you should be able to do like this:
 ![VirtulaPenGif](https://github.com/abd-shoumik/Virtual-Pen/blob/master/Virtualpen.gif)
 
+#### Credit:
+https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
+
 ## Contacts:
 * **Created by:[Abdullah Shoumik](https://github.com/abd-shoumik)**
 * **Email:[abd.shoumik@gmail.com](https://abd.shoumik@gmail.com)**
