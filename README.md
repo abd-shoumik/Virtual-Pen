@@ -15,6 +15,12 @@
 ***to install the python dependencies related to this project like opencv,numpy,scipy etc.***
 * **Run the command** `python3 VirtualPen.py` ***to run your VirtualPen project***
 
-## When you run the the file, you should be able to do like this
+## When you run the the file, you should be able to do like this:
 ![VirtulaPenGif](https://github.com/abd-shoumik/Virtual-Pen/blob/master/Virtualpen.gif)
+
+## Contacts:
+* **Created by:[Abdullah Shoumik](https://github.com/abd-shoumik)**
+* **Email:[abd.shoumik@gmail.com](https://abd.shoumik@gmail.com)**
+* **Youtube:[TheLazyCoder](https://youtube.com/channel/UCWjx_FKjjfjAL-wtSi-iS4g)**
+* **LinkedIn: [Abdullah Shoumik](https://www.linkedin.com/in/abdullah-shoumik-7a0b36135/)**
 
