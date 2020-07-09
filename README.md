@@ -1,4 +1,8 @@
 # Virtual-Pen
+## File Details:
+`Color_labeler.py`: For detecting Red,Green,Blue colors which is near to the camera
+`Color_range_detector`: For custom color selection ( optional,if you want to detect other colors than red , green & blue. Follow the video if you want that )
+`VirtualPen.py`: Python file to write on your screen.
 
 ## To run this code in your terminal:
 * ***Open your terminal**
